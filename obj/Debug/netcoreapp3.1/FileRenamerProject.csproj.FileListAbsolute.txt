@@ -1,0 +1,13 @@
+E:\New Projects\FilesRenamer\FileRenamerProject\bin\Debug\netcoreapp3.1\FileRenamerProject.exe
+E:\New Projects\FilesRenamer\FileRenamerProject\bin\Debug\netcoreapp3.1\FileRenamerProject.deps.json
+E:\New Projects\FilesRenamer\FileRenamerProject\bin\Debug\netcoreapp3.1\FileRenamerProject.runtimeconfig.json
+E:\New Projects\FilesRenamer\FileRenamerProject\bin\Debug\netcoreapp3.1\FileRenamerProject.runtimeconfig.dev.json
+E:\New Projects\FilesRenamer\FileRenamerProject\bin\Debug\netcoreapp3.1\FileRenamerProject.dll
+E:\New Projects\FilesRenamer\FileRenamerProject\bin\Debug\netcoreapp3.1\FileRenamerProject.pdb
+E:\New Projects\FilesRenamer\FileRenamerProject\obj\Debug\netcoreapp3.1\FileRenamerProject.csprojAssemblyReference.cache
+E:\New Projects\FilesRenamer\FileRenamerProject\obj\Debug\netcoreapp3.1\FileRenamerProject.AssemblyInfoInputs.cache
+E:\New Projects\FilesRenamer\FileRenamerProject\obj\Debug\netcoreapp3.1\FileRenamerProject.AssemblyInfo.cs
+E:\New Projects\FilesRenamer\FileRenamerProject\obj\Debug\netcoreapp3.1\FileRenamerProject.csproj.CoreCompileInputs.cache
+E:\New Projects\FilesRenamer\FileRenamerProject\obj\Debug\netcoreapp3.1\FileRenamerProject.dll
+E:\New Projects\FilesRenamer\FileRenamerProject\obj\Debug\netcoreapp3.1\FileRenamerProject.pdb
+E:\New Projects\FilesRenamer\FileRenamerProject\obj\Debug\netcoreapp3.1\FileRenamerProject.genruntimeconfig.cache
